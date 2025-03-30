@@ -100,7 +100,8 @@ Start it and it will open a file requestor - select the Custom_Nodes folder of t
 
 It will output a text file with this timed and dated naming system "Details_of_Node_Requirement_Versions_2025-03-30_10-21-14.txt"
 
-![image](https://github.com/user-attachments/assets/3d2bc3de-babe-4e09-aa24-a9481c5e41e0)
+![image](https://github.com/user-attachments/assets/321cf312-79ab-45f8-be6c-3ef39d0e1796)
+
 
 
 
