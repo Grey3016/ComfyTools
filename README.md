@@ -121,6 +121,7 @@ aiohappyeyeballs          2.4.4
 aiohttp                   3.11.11
 aiosignal                 1.3.2
 annotated-types           0.7.0 "
+```
 
 ```2.in the above script, use tkinter to select the files with a file requestor```
 
