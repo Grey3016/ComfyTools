@@ -103,6 +103,9 @@ It will output a text file with this timed and dated naming system "Details_of_N
 ![image](https://github.com/user-attachments/assets/321cf312-79ab-45f8-be6c-3ef39d0e1796)
 
 
+The relationship and outputs between the tools
+
+![image](https://github.com/user-attachments/assets/ba53dcaa-ba4c-4419-8eb0-a0efb0de799b)
 
 
 --------------------------------------------------
