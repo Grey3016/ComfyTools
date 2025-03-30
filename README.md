@@ -82,7 +82,9 @@ It will output a named (from the output_log file you used) requirements txt file
 
 -------------------------------------------------
 
-4th tool in Python will scan all the installed nodes and produce a list of their Requirements that have required versions (ie discard those that have no version requirement). This requires tkinter to be pip installed for a file requestor
+4th tool in Python will scan all the installed nodes in a custom_nodes folder and produce a list of their Requirements that have required versions (ie discard those that have no version requirement) and also detail what the installed version is. This requires tkinter to be pip installed for a file requestor
+
+Tool name: **Compare_Custom_Node_Requirements_v6b.py**
 
 **Usage case:**
 
