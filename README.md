@@ -111,7 +111,8 @@ Just copy each prompt (without the number) and paste into ChatGPT one at a time.
 
 **To make "Compare_OutputLogs_Dependencies_v2h.py"**
 
->
+
+```
 
 1.I have two files and halfway through each there is a list of python requirements inside a venv , how can I compare (versions) these lists from each file. This is the format "Embedded Install Details 
 Package                   Version
@@ -122,19 +123,17 @@ aiohappyeyeballs          2.4.4
 aiohttp                   3.11.11
 aiosignal                 1.3.2
 annotated-types           0.7.0 "
+```
 
-<
+```2.in the above script, use tkinter to select the files with a file requestor```
 
+```3. make the list returned alphabetical and export it to a textfile```
 
-2.in the above script, use tkinter to select the files with a file requestor
+```4. amend the code to include a key to file 1 and file 2 names by using a key at the top of their real filenames```
 
-3. make the list returned alphabetical and export it to a textfile
+```5. add the date and time to the saved filename```
 
-4. amend the code to include a key to file 1 and file 2 names by using a key at the top of their real filenames
-
-5. add the date and time to the saved filename
-
-6. amend the key at the top of the page to also include the second line from the top of each textfile in the key
+```6. amend the key at the top of the page to also include the second line from the top of each textfile in the key```
 
 
 ----------------------------------
