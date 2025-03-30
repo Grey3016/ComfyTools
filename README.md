@@ -13,7 +13,8 @@ CPU, RAM, OS Info, Pip Cache Size, System Cuda Version, Cuda Variables set to Va
 Above: Basic system information, along with name of folder the script was run in and type of Comfy install
 
 ![image](https://github.com/user-attachments/assets/1d397938-f4c9-4c31-8242-fdfefbdd0c47)
-Above: Shows how big your pip cache is (26GB in my case) and Cuda info (Paths and Variable names) - I have three of them installed, I just change over the lst number to the Cuda I want on each and it works and has always worked for me. 
+
+Above: Shows how big your pip cache is (26GB in my case) and Cuda info (Paths and Variable names) - I have three of them installed, I just change over the Path/Variable last number to the Cuda I want on each and it works and has always worked for me. 
 
 ![image](https://github.com/user-attachments/assets/2b5f8e7d-b6a8-4fab-85dc-127ea3a0e60d)
 Above: Checks on MSVC and CL.exe installation and Paths, checks Python for version and Paths and details what nodes you have 
