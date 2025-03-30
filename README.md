@@ -58,6 +58,7 @@ It will output a named (from the output_log file you used) requirements txt file
 
 ![image](https://github.com/user-attachments/assets/983158fa-495e-459f-98b5-d18ef339e21a)
 
+-------------------------------------------------
 
 4th tool in Python will scan all the installed nodes and produce a list of their Requirements that have required versions (ie discard those that have no version requirement). This requires tkinter to be pip installed for a file requestor
 Usage case:
