@@ -14,6 +14,7 @@ Desktop: place script inside the ComfyUI folder in the Documents folder with the
 
 Portable and Desktop: place script outside the main ComfyUI folder ie along with the Embeded folder and startup scripts 
 
+
 **Output: Details of Output_Log txt file:**
 
 Directory name the script was run from - to ensure clarity of where it came from
