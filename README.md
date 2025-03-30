@@ -112,7 +112,8 @@ Just copy each prompt (without the number) and paste into ChatGPT one at a time.
 **To make "Compare_OutputLogs_Dependencies_v2h.py"**
 
 
-```1.I have two files and halfway through each there is a list of python requirements inside a venv , how can I compare (versions) these lists from each file. This is the format "Embedded Install Details 
+```
+1.I have two files and halfway through each there is a list of python requirements inside a venv , how can I compare (versions) these lists from each file. This is the format "Embedded Install Details 
 Package                   Version
 ------------------------- ------------
 absl-py                   2.1.0
