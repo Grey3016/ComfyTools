@@ -10,7 +10,7 @@ Tools to get information on Comfy Installs and compare it to other installs
 
 **Usage:**
 1. Desktop: place script inside the ComfyUI folder in the Documents folder with the system folders and the .venv folder
-2. Portable and Desktop: place script outside the main ComfyUI folder ie along with the Embeded folder and startup scripts 
+2. Portable and Cloned: place script outside the main ComfyUI folder ie along with the Embeded folder and startup scripts 
 
 
 **Output: Details of Output_Log txt file:**
