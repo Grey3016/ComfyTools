@@ -24,7 +24,9 @@ Above: Checks on MSVC and CL.exe installation and Paths, checks Python for versi
 Above: It then opens the venv in Desktop, Cloned or the Embeded folder in Portable and reports back on the installed Python/Pytorch/Cuda version and finally details all of the installed packages and their versions
 
 Usage:
+
 Desktop: place script inside the ComfyUI folder in the Documents folder with the system folders and the .venv folder
+
 Portable and Desktop: place script outside the main ComfyUI folder ie along with the Embeded folder and startup scripts 
 
 
@@ -32,8 +34,11 @@ Portable and Desktop: place script outside the main ComfyUI folder ie along with
 
 2nd tool in Python will take two Output files from the above, select their dependencies in their output files and compare them to show differences in their two dependencies (requires tkinter to be pip installed for a file requestor)
 Usages:
+
 Taking a snapshot before and after an update
+
 Fault finding
+
 Comparing two installs
 
 Usage:
@@ -47,13 +52,17 @@ It will output a comparison table (see pic below), showing how the version numbe
 -------------------------------------------------
 
 3rd tool in Python will open an Output_log file and turn the dependencies noted in it into a requirements.txt file
+
 Usage case:
+
 Taking a snapshot output file and turning it into a requirements file to roll back dependencies - bear in mind this might not work / use in conjunction with the tool noting Nodes version requirements
 
 Input:
+
 It will open a file requestor to select an output_log file 
 
 Output:
+
 It will output a named (from the output_log file you used) requirements txt file. Naming system example output_log_2025-03_12-007_requirements.txt
 
 ![image](https://github.com/user-attachments/assets/983158fa-495e-459f-98b5-d18ef339e21a)
@@ -61,14 +70,19 @@ It will output a named (from the output_log file you used) requirements txt file
 -------------------------------------------------
 
 4th tool in Python will scan all the installed nodes and produce a list of their Requirements that have required versions (ie discard those that have no version requirement). This requires tkinter to be pip installed for a file requestor
+
 Usage case:
+
 Taking a snapshot before and after an update
+
 Fault finding 
 
 Usage:
+
 Start it and it will open a file requestor - select the Custom_Nodes folder of the install you wish to process
 
 Output:
+
 It will output a text file with this timed and dated naming system "Details_of_Node_Requirement_Versions_2025-03-30_10-21-14.txt"
 
 ![image](https://github.com/user-attachments/assets/3d2bc3de-babe-4e09-aa24-a9481c5e41e0)
