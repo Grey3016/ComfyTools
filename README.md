@@ -105,7 +105,9 @@ It will output a text file with this timed and dated naming system "Details_of_N
 
 The relationship and outputs between the tools
 
-![Uploading image.png…]()
+
+
+
 
 
 
