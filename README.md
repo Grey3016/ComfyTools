@@ -1,4 +1,7 @@
-# ComfyTools
+# ComfyTools: 
+
+Tool name: **System Desktop Venv Embeded Installs v4w.bat**
+
 Tools to get information on Comfy Installs and compare it to other installs
 
 **1st Batch script tool gets the below info from a Comfy install (Portable, Desktop or Cloned) and exports it to a timed and dated Output file**
@@ -43,10 +46,11 @@ Above: It then opens the venv in Desktop, Cloned or the Embeded folder in Portab
 2nd tool in Python will take two Output files from the above, select their dependencies in their output files and compare them to show differences in their two dependencies (requires tkinter to be pip installed for a file requestor)
 **Usage case:**
 
-Taking a snapshot before and after an update
+Tool name: **Compare_OutputLogs_Dependencies_v2h.py**
 
 1. Fault finding
 2. Comparing two installs - any, compare Desktop to Portable or Clone
+3. Taking a snapshot before and after an update
 
 **Usage:**
 Start it and select two output files in the format of output_log_2025-03_12-007.txt (the outputs from the 
@@ -59,6 +63,8 @@ It will output a comparison table (see pic below), showing how the version numbe
 -------------------------------------------------
 
 3rd tool in Python will open an Output_log file and turn the dependencies noted in it into a requirements.txt file
+
+Tool name: **MakeARequirementsTxt_From_An_OutputLog_V1.py**
 
 **Usage case:**
 
