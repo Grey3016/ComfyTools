@@ -20,6 +20,7 @@ Above: Shows how big your pip cache is (26GB in my case) and Cuda info (Paths an
 Above: Checks on MSVC and CL.exe installation and Paths, checks Python for version and Paths and details what nodes you have 
 
 ![image](https://github.com/user-attachments/assets/21990a2d-8155-4cc5-858a-a6c7cab06992)
+
 Above: It then opens the venv in Desktop, Cloned or the Embeded folder in Portable and reports back on the installed Python/Pytorch/Cuda version and finally details all of the installed packages and their versions
 
 Usage:
