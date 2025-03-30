@@ -37,9 +37,9 @@ Usages:
 
 Taking a snapshot before and after an update
 
-Fault finding
+1.Fault finding
 
-Comparing two installs
+2.Comparing two installs
 
 Usage:
 Start it and select two output files in the format of output_log_2025-03_12-007.txt (the outputs from the 
@@ -73,9 +73,9 @@ It will output a named (from the output_log file you used) requirements txt file
 
 Usage case:
 
-Taking a snapshot before and after an update
+1.Taking a snapshot before and after an update
 
-Fault finding 
+2.Fault finding 
 
 Usage:
 
