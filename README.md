@@ -103,9 +103,11 @@ It will output a text file with this timed and dated naming system "Details_of_N
 ![image](https://github.com/user-attachments/assets/321cf312-79ab-45f8-be6c-3ef39d0e1796)
 
 
+
+
 --------------------------------------------------
 
-**Making the Python Tools in ChatGPT**
+## **Making the Python Tools in ChatGPT**
 
 Just copy each prompt (without the number) and paste into ChatGPT one at a time. 
 
