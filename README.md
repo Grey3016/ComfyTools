@@ -1,6 +1,6 @@
 # ComfyTools: 
 
-Tool name: **System Desktop Venv Embeded Installs v4w.bat**
+Tool name: **System Desktop Venv Embeded Installs v4aw.bat**
 
 Tools to get information on Comfy Installs and compare it to other installs
 
